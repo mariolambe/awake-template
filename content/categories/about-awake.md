@@ -1,6 +1,6 @@
 ---
 name: seo
-image: /logo.svg
+image: /uploads/markup-hero.jpg
 description: SEO
 ---
 All about the Awake Nuxt Template
