@@ -8,5 +8,4 @@
   to = "/how-to-extract-urls-from-sitemaps/"
   status = 301
   force = false
-  query = {path = ":path"}
-  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
+
