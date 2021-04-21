@@ -41,7 +41,7 @@ In termini di **volumi di ricerca mensili** (quante volte una determinata parola
 
 Esempio:
 
-<div class="datatable-begin"></div>
+
 
 | Keyword             | Nazione              | Volume di ricerca mensili (popolarità della parola chiave) |
 | ------------------- | -------------------- | ---------------------------------------------------------- |
@@ -50,7 +50,7 @@ Esempio:
 | Scarpe Geox Bambini | Italia  (google.it)  | 1.900                                                      |
 | Kinderschuhe Geox   | Germania (google.de) | 6.600                                                      |
 
-<div class="datatable-end"></div>
+
 
 ## Risultati consulenza SEO in Germania
 
