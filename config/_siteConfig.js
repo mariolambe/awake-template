@@ -60,7 +60,7 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'mariolambertucci.com' // 'site mariolambertucci.com'
+    siteShortName: 'mariolambertucci-com' // 'site mariolambertucci.com'
   },
 
   // Newsletter Subscribe
