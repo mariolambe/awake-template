@@ -27,17 +27,12 @@ export default {
       link: '/contact'
     },
     {
-      name: 'Categories',
-      link: '/categories'
+      name: 'SEO Lahr',
+      link: '/seo-lahr'
     },
     {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
-      target: '_blank'
-    },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
+      name: 'SEO Germania',
+      link: '/seo-germania',
       target: '_blank'
     }
   ],
