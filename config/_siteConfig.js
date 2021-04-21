@@ -7,6 +7,11 @@ import theCMS from '../cms/netlify/cms'
 
 /**
  * General Site configurations
+     name: 'SEO Germania',
+      link: '/seo-germania',
+      target: '_blank'
+    }
+ 
  */
 export default {
   siteName: 'Mario Lambertucci',
@@ -32,8 +37,7 @@ export default {
     },
     {
       name: 'SEO Germania',
-      link: '/seo-germania',
-      target: '_blank'
+      link: '/seo-germania'
     }
   ],
   hero: {
