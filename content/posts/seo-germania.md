@@ -5,7 +5,7 @@ category:
   - About Awake
 author: Mario Lambertucci
 date: 2021-04-21T16:16:06.144Z
-featureImage: /uploads/markup-hero.jpg
+featureImage: /uploads/germania.jpg
 ---
 ## Il tuo Consulente SEO in Germania: *Mario Lambertucci*
 
