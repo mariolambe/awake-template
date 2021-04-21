@@ -9,8 +9,6 @@ featureImage: /uploads/germania.jpg
 ---
 ## Il tuo Consulente SEO in Germania: *Mario Lambertucci*
 
-![Lahr:Schwarzwald](https://user-images.githubusercontent.com/61537859/114528692-8736e700-9c49-11eb-8da2-d49c87381b61.jpeg)
-
 Ciao, il mio nome è Mario Lambertucci.
 
 Nato e vissuto in Italia, vivo e lavoro in Germania da quasi 10 anni e ricopro il ruolo di **Senior SEO Manager** per l'ecommerce di moda Zalando. 
