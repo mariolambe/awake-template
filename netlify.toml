@@ -8,4 +8,8 @@
   to = "/how-to-extract-urls-from-sitemaps/"
   status = 301
   force = false
-
+[[redirects]]
+  from = "/seo/2021/04/11/Extract-URLs-from-webpages.html"
+  to = "/how-to-extract-urls-from-webpages/"
+  status = 301
+  force = false
