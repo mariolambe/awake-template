@@ -1,7 +1,6 @@
 <template>
   <footer class="site-footer">
-    {{ $siteConfig.siteName }} &copy; {{ new Date().getFullYear() }} - All
-    Rights Reserved
+    {{ $siteConfig.siteName }} &copy; {{ new Date().getFullYear() }}
     <br />
     Made with <span style="color: #e25555;">&#9829;</span> from the Black Forest
   </footer>
