@@ -2,7 +2,7 @@
   <footer class="site-footer">
     {{ $siteConfig.siteName }} &copy; {{ new Date().getFullYear() }}
     <br />
-    Made with <span style="color: #e25555;">&#9829;</span> from the Black Forest
+    Made with <span style="color: #e25555;">&#9829;</span> in the Black Forest
   </footer>
 </template>
 
