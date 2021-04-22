@@ -1,6 +1,6 @@
 /**
  * CMS Configuration
- * Alter 'netlify' in the import statment below to one of the following:
+ * Alter 'netlify' in the import statment below to one of the following:process.env.GOOGLE_ANALYTICS_ID
  * netlify
  */
 import theCMS from '../cms/netlify/cms'
@@ -15,7 +15,7 @@ export default {
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
-    id: process.env.GOOGLE_ANALYTICS_ID
+    id: 'UA-62893595-1'
   },
   mainMenu: [
     {
