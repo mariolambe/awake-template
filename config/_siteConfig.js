@@ -31,6 +31,10 @@ export default {
       link: '/seo-germania'
     },
     {
+      name: 'SEO Italien',
+      link: '/seo-italien'
+    },
+    {
       name: 'SEO Lahr',
       link: '/seo-lahr'
     }
