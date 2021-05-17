@@ -27,11 +27,7 @@
               <br />
             </article>
           </div>
-          <div class="tile is-parent is-8">
-            <article class="tile is-child box">
-              <contact-form />
-            </article>
-          </div>
+         
         </div>
       </template>
       <template v-slot:sidebar>
@@ -44,14 +40,4 @@
     </main-section>
   </div>
 </template>
-<script>
-import ContactForm from '~/components/ContactForm'
-export default {
-  head() {
-    return {
-      title: `Contact | ${this.$siteConfig.siteName}`
-    }
-  },
-  components: { ContactForm }
-}
-</script>
+
